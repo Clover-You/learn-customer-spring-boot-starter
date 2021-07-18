@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customer-starter/customer-starter.iml" filepath="$PROJECT_DIR$/customer-starter/customer-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello-service-starter-autoconfigure/spring-boot-hello-service-starter-autoconfigure.iml" filepath="$PROJECT_DIR$/spring-boot-hello-service-starter-autoconfigure/spring-boot-hello-service-starter-autoconfigure.iml" />
+    </modules>
+  </component>
+</project>
